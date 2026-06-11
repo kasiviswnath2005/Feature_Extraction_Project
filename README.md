@@ -37,16 +37,6 @@ This project focuses on feature extraction and exploratory data analysis (EDA) u
 * Working with Pandas DataFrames
 * Insight Extraction from Real-World Datasets
 
-## Project Structure
-
-```bash
-Feature_Extraction_Project/
-│
-├── Anime_Data_Analysis.ipynb
-├── dataset.csv
-└── README.md
-```
-
 ## Conclusion
 
 This project helped strengthen my understanding of feature extraction, data manipulation, and exploratory data analysis using Python. It demonstrates how raw data can be transformed into meaningful information using NumPy and Pandas.
